@@ -27,12 +27,7 @@ Built using:
 ## 🔗 Connect with Me
 
 - [GitHub](https://github.com/Rabbit-Bull)
-- [LinkedIn](https://linkedin.com/in/akshatdubey) *(optional if you want to add)*
-- [Twitter](https://twitter.com/akshatdubey) *(optional)*
-
----
-
-> © 2025 Akshat Dubey. All rights reserved.
+- [LinkedIn](https://www.linkedin.com/in/akshat-dubey-321184342/)
 
 <p align="center">
   <strong>HAPPY BUILDING 🚀 | MERN Developer | Clean UI & Sustainable Logic</strong>
